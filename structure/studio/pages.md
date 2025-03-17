@@ -38,12 +38,12 @@
 - Contains `block:Playlist`.
 - `block:HeadButtons` (Add playlist)
 
-## Page:Artist
+## Page:Artists
 - Contains `block:Artists`.
 - Contains `block:Artist`.
 - `block:HeadButtons` (Add artist)
 
-## Page:Track
+## Page:Tracks
 - Contains `block:Tracks`.
 - Contains `block:Track`.
 - `block:HeadButtons` (Add track)
