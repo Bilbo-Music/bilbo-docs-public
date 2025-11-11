@@ -1,5 +1,5 @@
 # Bilbo Studio Author Agreement
-**Effective Date:** October 21, 2025  
+**Effective Date:** November 10, 2025  
 **Contact:** [support@bilbomusic.com](mailto:support@bilbomusic.com)
 
 ---

@@ -2,7 +2,7 @@
 
 **Bilbo Music** (hereinafter referred to as “**Bilbo**”, “**Service**”)
 
-**Effective Date:** October 21, 2025
+**Effective Date:** November 10, 2025
 
 ---
 
