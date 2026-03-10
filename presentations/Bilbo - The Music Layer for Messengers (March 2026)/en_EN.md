@@ -139,6 +139,19 @@ No one can upload a track on behalf of an artist without their explicit confirma
 
 ---
 
+# 10. Merch as a Service
+
+## MERCH
+Easy merch distribution through partners.
+
+- instantly on marketplaces (Wildberries, Ozon, Amazon…)
+- studio builder: create in just a few clicks
+- auto-publish and sales
+
+We make creating and selling merch as simple and enjoyable as releasing a track.
+
+---
+
 # 10. Open Ecosystem
 
 ## PLUGINS STORE  
